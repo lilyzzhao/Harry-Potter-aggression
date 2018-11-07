@@ -30,3 +30,7 @@ hp_graph <- hp_data %>%
 hp_graph
 #default geom_col is creating a stacked graph, better to have a clustered column graph. 
 ```
+
+hello hello hello hi hi hi hi hi hi hi hi hi hi hi hi hi hi hih ih i hihi hi hi purple. 
+
+
